@@ -1,0 +1,31 @@
+P {
+    font-family:monospace
+    
+    color:chocolate;
+    font-size:30px;
+    font-weight: bold;
+    font-style: italic;
+    font-size:100%;
+    
+    
+}
+.one
+{
+    color:blueviolet
+}
+.two
+{
+    color: chartreuse
+    
+}
+div
+{
+    height: auto;
+    width: auto;
+    background-color: aquamarine
+    
+}
+ul
+{
+    list-style-position: inside;
+}
